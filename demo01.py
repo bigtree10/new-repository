@@ -13,6 +13,7 @@ while num <= 10:
 
 print(f"1-10z之间的整数和是{s_num}")
 
+print("dev2分支下的world")
 print("master分支下的hello")
 
 
